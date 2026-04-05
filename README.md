@@ -30,13 +30,13 @@ Here are some ideas to get you started:
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=EngoDev&show_icons=true)
 
 <p align="center">
 
 
 
   <img height=300 align="center" src="https://github-readme-stats-beta-steel-43.vercel.app/api/wakatime?username=EngoDev&langs_count=8&layout=compact&custom_title=Coding%20%20Stats&theme=tokyonight">
-  <img height=300 align="center" src="https://github-readme-stats.vercel.app/api?username=EngoDev&rank_icon=github&show_icons=true&include_all_commits=true&theme=tokyonight"  />
+<!--  <img height=300 align="center" src="https://github-readme-stats.vercel.app/api?username=EngoDev&rank_icon=github&show_icons=true&include_all_commits=true&theme=tokyonight"  /> -->
 
 </p>
