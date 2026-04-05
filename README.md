@@ -23,7 +23,7 @@ clean, fast, and useful.
 
 - Building: **Secret project coming soon**
 - Exploring: **WASM**
-- Open to: **[open source / collaborations]**
+- Open to: **open source / collaborations**
 
 ## Tech I use
 
